@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Exercise 1: Data Engineering experience, Data ingestion from a spectrum of analytical data sources into OneLake
+### Exercise 1: Data Engineering Synapse experience, Data ingestion from a spectrum of analytical data sources into OneLake
 
 - Task 1.1: Create a Microsoft Fabric enabled workspace
 
